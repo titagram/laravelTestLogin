@@ -1,7 +1,3 @@
-
-/storage/*.key
-.phpactor.json
-.phpunit.result.cache
 npm-debug.log
 yarn-error.log
 /.fleet
